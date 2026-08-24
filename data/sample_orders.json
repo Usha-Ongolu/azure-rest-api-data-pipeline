@@ -1,0 +1,98 @@
+[
+  {
+    "order_id": 1001,
+    "customer_id": 101,
+    "customer_name": "ABC Industries",
+    "country": "India",
+    "product_id": 501,
+    "product_name": "Data Platform",
+    "category": "Software",
+    "order_date": "2026-08-01",
+    "quantity": 2,
+    "unit_price": 1200
+  },
+  {
+    "order_id": 1002,
+    "customer_id": 102,
+    "customer_name": "Tech Solutions",
+    "country": "USA",
+    "product_id": 502,
+    "product_name": "Analytics Platform",
+    "category": "Software",
+    "order_date": "2026-08-03",
+    "quantity": 1,
+    "unit_price": 2500
+  },
+  {
+    "order_id": 1003,
+    "customer_id": 103,
+    "customer_name": "Global Systems",
+    "country": "UK",
+    "product_id": 503,
+    "product_name": "Data Integration",
+    "category": "Services",
+    "order_date": "2026-08-05",
+    "quantity": 3,
+    "unit_price": 1800
+  },
+  {
+    "order_id": 1004,
+    "customer_id": 104,
+    "customer_name": "Cloud Corp",
+    "country": "India",
+    "product_id": 501,
+    "product_name": "Data Platform",
+    "category": "Software",
+    "order_date": "2026-08-08",
+    "quantity": 1,
+    "unit_price": 1200
+  },
+  {
+    "order_id": 1005,
+    "customer_id": 105,
+    "customer_name": "Enterprise Ltd",
+    "country": "Australia",
+    "product_id": 504,
+    "product_name": "Cloud Migration",
+    "category": "Services",
+    "order_date": "2026-08-10",
+    "quantity": 2,
+    "unit_price": 3000
+  },
+  {
+    "order_id": 1006,
+    "customer_id": 101,
+    "customer_name": "ABC Industries",
+    "country": "India",
+    "product_id": 502,
+    "product_name": "Analytics Platform",
+    "category": "Software",
+    "order_date": "2026-08-12",
+    "quantity": 2,
+    "unit_price": 2500
+  },
+  {
+    "order_id": 1007,
+    "customer_id": 106,
+    "customer_name": "Digital Works",
+    "country": "Germany",
+    "product_id": 503,
+    "product_name": "Data Integration",
+    "category": "Services",
+    "order_date": "2026-08-15",
+    "quantity": 1,
+    "unit_price": 1800
+  },
+  {
+    "order_id": 1008,
+    "customer_id": 107,
+    "customer_name": "Smart Systems",
+    "country": "USA",
+    "product_id": 504,
+    "product_name": "Cloud Migration",
+    "category": "Services",
+    "order_date": "2026-08-18",
+    "quantity": 2,
+    "unit_price": 3000
+  }
+]
